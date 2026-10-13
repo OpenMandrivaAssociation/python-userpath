@@ -1,6 +1,6 @@
 Name:		python-userpath
 Version:	1.9.2
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/u/userpath/userpath-%{version}.tar.gz
 Summary:	Cross-platform tool for adding locations to the user PATH
 URL:		https://pypi.org/project/userpath/
